@@ -17,7 +17,7 @@
 
  ---
 
- ## ✨ What it does (like I’m 5)
+ ## ✨ What it does 
  - **You tell** the app what hurts and share an image (like an X‑ray) 🗣️🩻
  - **Little helper robots** talk to each other to think and check things 🤖🤝
  - They make a **doctor report** that’s safe, clear, and easy to follow 📄✅
